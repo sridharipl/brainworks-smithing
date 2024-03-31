@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD030 -->
 
-<img width="100%" src="https://drive.google.com/file/d/1iDDpaPGMZJpZ71Qgmpb_DgYfdQU2LYzW/view?usp=sharing"></a>
+<img width="100%" src="https://drive.google.com/file/d/1iDDpaPGMZJpZ71Qgmpb_DgYfdQU2LYzW/view?usp=sharing?raw=true"></a>
 
 # Flowise - Build LLM Apps Easily
 
